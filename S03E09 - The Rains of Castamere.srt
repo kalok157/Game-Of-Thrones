@@ -1,0 +1,2158 @@
+1
+00:01:57,030 --> 00:01:58,530
+<font color=#FFFF00>ROCHEDO CASTERLY</font>
+
+2
+00:02:05,700 --> 00:02:08,620
+<font color=#FFFF00>Tem certeza disso?</font>
+
+3
+00:02:08,920 --> 00:02:10,420
+<font color=#FFFF00>Não.</font>
+
+4
+00:02:11,960 --> 00:02:13,670
+<font color=#FFFF00>É perigoso.</font>
+
+5
+00:02:15,380 --> 00:02:18,090
+<font color=#FFFF00>Se tomarmos o castelo de Tywin,</font>
+
+6
+00:02:18,180 --> 00:02:21,430
+<font color=#FFFF00>os lordes de Westeros vão compreender
+que ele não é invencível.</font>
+
+7
+00:02:21,850 --> 00:02:24,930
+<font color=#FFFF00>Tomamos a casa,
+tomamos o ouro, tomamos o poder.</font>
+
+8
+00:02:25,220 --> 00:02:27,270
+<font color=#FFFF00>Por que diz isso para mim?</font>
+
+9
+00:02:31,060 --> 00:02:32,820
+<font color=#FFFF00>Você me implorou para não mandar Theon</font>
+
+10
+00:02:32,900 --> 00:02:36,690
+<font color=#FFFF00>negociar com o pai dele,
+e ignorei seu conselho.</font>
+
+11
+00:02:38,740 --> 00:02:40,990
+<font color=#FFFF00>Agora Winterfell está incendiado e destruído,</font>
+
+12
+00:02:41,070 --> 00:02:43,160
+<font color=#FFFF00>o Norte está invadido por nascidos do ferro</font>
+
+13
+00:02:43,240 --> 00:02:45,080
+<font color=#FFFF00>e Bran e Rickon estão mortos.</font>
+
+14
+00:02:48,210 --> 00:02:49,710
+<font color=#FFFF00>Então? Rochedo Casterly.</font>
+
+15
+00:02:54,340 --> 00:02:55,920
+<font color=#FFFF00>Estou pedindo seu conselho.</font>
+
+16
+00:03:02,470 --> 00:03:04,930
+<font color=#FFFF00>Temos homens suficientes?</font>
+
+17
+00:03:08,100 --> 00:03:10,350
+<font color=#FFFF00>Se Walder Frey cooperar.</font>
+
+18
+00:03:10,440 --> 00:03:13,230
+<font color=#FFFF00>Se Walder Frey cooperar.</font>
+
+19
+00:03:18,240 --> 00:03:23,700
+<font color=#FFFF00>Se reforços chegarem de Porto Real
+antes de tomarmos o castelo,</font>
+
+20
+00:03:25,030 --> 00:03:28,830
+<font color=#FFFF00>seremos apanhados
+entre o exército de Tywin e o mar.</font>
+
+21
+00:03:33,500 --> 00:03:37,550
+<font color=#FFFF00>Vamos perder a guerra
+e morrer como papai morreu.</font>
+
+22
+00:03:37,630 --> 00:03:39,340
+<font color=#FFFF00>Ou pior.</font>
+
+23
+00:03:44,090 --> 00:03:47,560
+<font color=#FFFF00>Mostre a eles como é
+a dor de perder os que amamos.</font>
+
+24
+00:04:18,340 --> 00:04:21,010
+<font color=#FFFF00>Meus caros convidados,</font>
+
+25
+00:04:22,380 --> 00:04:26,260
+<font color=#FFFF00>sejam bem-vindos ao meu castelo
+e à minha mesa.</font>
+
+26
+00:04:28,680 --> 00:04:35,020
+<font color=#FFFF00>Eu estendo a vocês minha hospitalidade
+e proteção, sob a luz dos Sete.</font>
+
+27
+00:04:35,100 --> 00:04:37,520
+<font color=#FFFF00>Nós agradecemos
+sua hospitalidade, milorde.</font>
+
+28
+00:04:41,820 --> 00:04:44,700
+<font color=#FFFF00>Eu vim pedir minhas desculpas, milorde,</font>
+
+29
+00:04:44,780 --> 00:04:46,530
+<font color=#FFFF00>e implorar seu perdão.</font>
+
+30
+00:04:46,950 --> 00:04:50,040
+<font color=#FFFF00>Não implore meu perdão, Majestade.</font>
+
+31
+00:04:51,200 --> 00:04:54,370
+<font color=#FFFF00>Não foi a mim que menosprezou.
+Foram minhas garotas.</font>
+
+32
+00:05:06,890 --> 00:05:09,390
+<font color=#FFFF00>Uma delas era para ser a rainha.</font>
+
+33
+00:05:09,470 --> 00:05:11,020
+<font color=#FFFF00>Agora, nenhuma delas será.</font>
+
+34
+00:05:12,680 --> 00:05:16,150
+<font color=#FFFF00>Esta é Arwyn, minha filha.</font>
+
+35
+00:05:16,230 --> 00:05:20,820
+<font color=#FFFF00>Minha filha Walda, minha filha Derwa,</font>
+
+36
+00:05:20,900 --> 00:05:23,440
+<font color=#FFFF00>minha filha Waldra.</font>
+
+37
+00:05:27,870 --> 00:05:33,080
+<font color=#FFFF00>Minhas netas mais velhas:
+Ginia e Neila.</font>
+
+38
+00:05:34,960 --> 00:05:39,170
+<font color=#FFFF00>Serra e Sarra.
+Minhas netas gêmeas.</font>
+
+39
+00:05:39,250 --> 00:05:40,960
+<font color=#FFFF00>Poderia ter tido qualquer uma.</font>
+
+40
+00:05:41,590 --> 00:05:44,210
+<font color=#FFFF00>Poderia ter as duas,
+por mim pouco importava.</font>
+
+41
+00:05:44,550 --> 00:05:46,590
+<font color=#FFFF00>Minha neta, Marianne.</font>
+
+42
+00:05:47,470 --> 00:05:49,680
+<font color=#FFFF00>Minha neta, Freya.</font>
+
+43
+00:05:50,800 --> 00:05:52,470
+<font color=#FFFF00>Minha neta...</font>
+
+44
+00:05:53,810 --> 00:05:54,850
+<font color=#FFFF00>Wertha.</font>
+
+45
+00:05:57,730 --> 00:05:58,850
+<font color=#FFFF00>Waldra.</font>
+
+46
+00:06:00,980 --> 00:06:02,320
+<font color=#FFFF00>Waldina.</font>
+
+47
+00:06:02,570 --> 00:06:03,530
+<font color=#FFFF00>Sou Merry.</font>
+
+48
+00:06:03,610 --> 00:06:05,320
+<font color=#FFFF00>Tudo bem.</font>
+
+49
+00:06:05,400 --> 00:06:09,030
+<font color=#FFFF00>E aqui está minha filha caçula, Shirei,</font>
+
+50
+00:06:10,280 --> 00:06:11,910
+<font color=#FFFF00>apesar de ela ainda não ter sangrado.</font>
+
+51
+00:06:12,450 --> 00:06:14,580
+<font color=#FFFF00>É claro que não tem paciência para esperar.</font>
+
+52
+00:06:16,460 --> 00:06:17,790
+<font color=#FFFF00>Miladies,</font>
+
+53
+00:06:17,960 --> 00:06:21,170
+<font color=#FFFF00>todo homem deveria cumprir sua palavra,
+os reis acima de tudo.</font>
+
+54
+00:06:22,710 --> 00:06:25,840
+<font color=#FFFF00>Fui prometido para casar com
+uma de vocês e quebrei esse voto.</font>
+
+55
+00:06:25,920 --> 00:06:28,010
+<font color=#FFFF00>A culpa não é de vocês.</font>
+
+56
+00:06:28,090 --> 00:06:30,340
+<font color=#FFFF00>Qualquer homem seria
+um sortudo por ter uma de vocês.</font>
+
+57
+00:06:31,680 --> 00:06:36,390
+<font color=#FFFF00>Eu fiz o que fiz não para menosprezá-las,
+mas porque eu amava outra.</font>
+
+58
+00:06:36,480 --> 00:06:40,270
+<font color=#FFFF00>Sei que estas palavras não podem consertar
+o erro que cometi com vocês e sua casa.</font>
+
+59
+00:06:41,270 --> 00:06:42,770
+<font color=#FFFF00>Eu imploro seu perdão</font>
+
+60
+00:06:43,940 --> 00:06:46,820
+<font color=#FFFF00>e prometo fazer o que puder para me redimir,</font>
+
+61
+00:06:46,900 --> 00:06:49,410
+<font color=#FFFF00>e assim os Freys da Travessia
+e os Starks de Winterfell</font>
+
+62
+00:06:49,490 --> 00:06:50,700
+<font color=#FFFF00>possam mais uma vez ser amigos.</font>
+
+63
+00:06:59,160 --> 00:07:01,000
+<font color=#FFFF00>Muito bem.</font>
+
+64
+00:07:03,170 --> 00:07:04,420
+<font color=#FFFF00>Aí está ela.</font>
+
+65
+00:07:05,090 --> 00:07:09,050
+<font color=#FFFF00>Aproxime-se.
+Deixe-me vê-la direito.</font>
+
+66
+00:07:15,930 --> 00:07:17,600
+<font color=#FFFF00>Ainda não consigo vê-la.</font>
+
+67
+00:07:18,560 --> 00:07:20,190
+<font color=#FFFF00>Olhos de velho.</font>
+
+68
+00:07:35,580 --> 00:07:37,450
+<font color=#FFFF00>Amor.</font>
+
+69
+00:07:37,540 --> 00:07:41,170
+<font color=#FFFF00>É assim que
+os Starks de Winterfell chamam isso?</font>
+
+70
+00:07:43,630 --> 00:07:47,500
+<font color=#FFFF00>Muito honroso.
+Eu chamo de rostinho bonito.</font>
+
+71
+00:07:49,630 --> 00:07:50,670
+<font color=#FFFF00>Muito bonito.</font>
+
+72
+00:07:52,800 --> 00:07:54,850
+<font color=#FFFF00>Mais bonito que os dessas daqui.</font>
+
+73
+00:07:56,720 --> 00:07:58,430
+<font color=#FFFF00>Bem simétrico também.</font>
+
+74
+00:08:00,390 --> 00:08:03,270
+<font color=#FFFF00>Tenta escondê-la debaixo desse vestido.</font>
+
+75
+00:08:03,940 --> 00:08:05,060
+<font color=#FFFF00>Se queria escondê-la,</font>
+
+76
+00:08:05,150 --> 00:08:07,440
+<font color=#FFFF00>não devia tê-la trazido aqui, para começar.</font>
+
+77
+00:08:13,990 --> 00:08:18,330
+<font color=#FFFF00>Eu sempre sei dizer o que está
+acontecendo debaixo de um vestido.</font>
+
+78
+00:08:18,620 --> 00:08:20,750
+<font color=#FFFF00>Tenho experiência de muito tempo.</font>
+
+79
+00:08:22,580 --> 00:08:27,920
+<font color=#FFFF00>Aposto que quando tira esse vestido,
+tudo fica exatamente onde está.</font>
+
+80
+00:08:28,000 --> 00:08:29,420
+<font color=#FFFF00>Não cai nadinha.</font>
+
+81
+00:08:31,630 --> 00:08:34,180
+<font color=#FFFF00>Seu rei disse que me traiu por amor.</font>
+
+82
+00:08:35,590 --> 00:08:39,350
+<font color=#FFFF00>Eu digo que ele me traiu por causa
+de tetas firmes e um corpinho gostoso.</font>
+
+83
+00:08:40,850 --> 00:08:43,140
+<font color=#FFFF00>E isso eu posso respeitar.</font>
+
+84
+00:08:44,940 --> 00:08:48,360
+<font color=#FFFF00>Quando tinha sua idade,
+teria quebrado cinquenta promessas</font>
+
+85
+00:08:48,440 --> 00:08:51,650
+<font color=#FFFF00>para ter isso. Sem pensar duas vezes.</font>
+
+86
+00:08:55,360 --> 00:08:58,830
+<font color=#FFFF00>Tenho muitos quartos no corredor
+para todos vocês.</font>
+
+87
+00:08:58,910 --> 00:09:03,120
+<font color=#FFFF00>Armaremos tendas lá fora com comida
+e cerveja para o restante de seus homens.</font>
+
+88
+00:09:03,620 --> 00:09:05,120
+<font color=#FFFF00>Eu agradeço, milorde.</font>
+
+89
+00:09:08,880 --> 00:09:09,960
+<font color=#FFFF00>Vamos nos preparar.</font>
+
+90
+00:09:10,590 --> 00:09:12,340
+<font color=#FFFF00>O vinho tinto jorrará</font>
+
+91
+00:09:13,470 --> 00:09:15,800
+<font color=#FFFF00>e a música tocará alto,</font>
+
+92
+00:09:16,180 --> 00:09:20,140
+<font color=#FFFF00>e vamos esquecer essa confusão.</font>
+
+93
+00:09:29,310 --> 00:09:30,570
+<font color=#FFFF00>Onde?</font>
+
+94
+00:09:30,650 --> 00:09:32,150
+<font color=#FFFF00>Ali.</font>
+
+95
+00:09:39,660 --> 00:09:42,620
+<font color=#FFFF00>Aqui. É um portão dos fundos.</font>
+
+96
+00:09:42,700 --> 00:09:45,120
+<font color=#FFFF00>Meus homens o usavam para sexo
+com as escravas.</font>
+
+97
+00:09:45,210 --> 00:09:46,870
+<font color=#FFFF00>Seus homens, mas não você?</font>
+
+98
+00:09:47,000 --> 00:09:48,630
+<font color=#FFFF00>Não tenho interesse em escravas.</font>
+
+99
+00:09:48,710 --> 00:09:50,840
+<font color=#FFFF00>Um homem não pode fazer amor
+com sua propriedade.</font>
+
+100
+00:09:54,510 --> 00:09:57,510
+<font color=#FFFF00>É aqui que entramos na cidade.
+Tem poucos guardas. Eles me conhecem.</font>
+
+101
+00:09:57,720 --> 00:09:58,760
+<font color=#FFFF00>Vão me deixar entrar.</font>
+
+102
+00:09:58,840 --> 00:10:01,100
+<font color=#FFFF00>Não vamos enfiar um exército
+por um portão dos fundos.</font>
+
+103
+00:10:01,180 --> 00:10:02,350
+<font color=#FFFF00>Eu mato os guardas.</font>
+
+104
+00:10:02,640 --> 00:10:03,930
+<font color=#FFFF00>Vou com seus dois melhores soldados</font>
+
+105
+00:10:04,020 --> 00:10:07,100
+<font color=#FFFF00>e os guio pelas vielas que conheço bem</font>
+
+106
+00:10:07,190 --> 00:10:09,190
+<font color=#FFFF00>e abro os portões da frente.</font>
+
+107
+00:10:10,110 --> 00:10:11,520
+<font color=#FFFF00>Depois vem o exército.</font>
+
+108
+00:10:11,690 --> 00:10:14,110
+<font color=#FFFF00>Quando as muralhas romperem,
+a cidade cairá em horas.</font>
+
+109
+00:10:14,190 --> 00:10:16,860
+<font color=#FFFF00>Ou talvez guie o Verme Cinza
+e a mim para um massacre,</font>
+
+110
+00:10:17,610 --> 00:10:19,490
+<font color=#FFFF00>destruindo a vanguarda de nosso exército.</font>
+
+111
+00:10:19,700 --> 00:10:22,120
+<font color=#FFFF00>Os mestres de Yunkai pagarão
+a você seu preço</font>
+
+112
+00:10:22,200 --> 00:10:23,450
+<font color=#FFFF00>e não terá que dividi-Io em três,</font>
+
+113
+00:10:23,540 --> 00:10:25,700
+<font color=#FFFF00>porque já terá matado seus parceiros.</font>
+
+114
+00:10:25,790 --> 00:10:28,460
+<font color=#FFFF00>Você tem uma mente que não confia.</font>
+
+115
+00:10:28,540 --> 00:10:31,250
+<font color=#FFFF00>Por experiência própria, só as pessoas
+desonestas pensam assim.</font>
+
+116
+00:10:34,000 --> 00:10:35,710
+<font color=#FFFF00>Você comanda os Imaculados,</font>
+
+117
+00:10:36,380 --> 00:10:37,760
+<font color=#FFFF00>o que acha?</font>
+
+118
+00:10:38,220 --> 00:10:40,510
+<font color=#FFFF00>Se liderança trata de alguma coisa,</font>
+
+119
+00:10:41,050 --> 00:10:43,930
+<font color=#FFFF00>se trata de fazer escolhas difíceis.</font>
+
+120
+00:10:47,100 --> 00:10:49,850
+<font color=#FFFF00>Acho que está dizendo a verdade.</font>
+
+121
+00:10:50,980 --> 00:10:52,060
+<font color=#FFFF00>Partirão esta noite.</font>
+
+122
+00:10:52,610 --> 00:10:55,940
+<font color=#FFFF00>Tudo bem.
+Vamos nos preparar.</font>
+
+123
+00:11:01,490 --> 00:11:02,570
+<font color=#FFFF00>Sor Jorah?</font>
+
+124
+00:11:04,740 --> 00:11:06,290
+<font color=#FFFF00>Eu posso acompanhá-los.</font>
+
+125
+00:11:06,790 --> 00:11:10,370
+<font color=#FFFF00>É um Guarda da Rainha, Sor Barristan.
+Seu lugar é ao lado da rainha.</font>
+
+126
+00:11:11,080 --> 00:11:15,380
+<font color=#FFFF00>Se realmente formos seus leais criados,
+faremos o que for preciso ser feito.</font>
+
+127
+00:11:15,920 --> 00:11:19,300
+<font color=#FFFF00>Custe o que custar,
+não importa nosso orgulho.</font>
+
+128
+00:11:22,970 --> 00:11:27,270
+<font color=#FFFF00>Estamos a oeste do Castelo Negro,
+mas o Fortenoite está mais perto de nós.</font>
+
+129
+00:11:27,680 --> 00:11:30,520
+<font color=#FFFF00>Foi o primeiro castelo na Muralha.</font>
+
+130
+00:11:30,600 --> 00:11:33,980
+<font color=#FFFF00>A Patrulha o abandonou
+durante o reinado de Jaehaerys I,</font>
+
+131
+00:11:34,060 --> 00:11:37,530
+<font color=#FFFF00>grande demais e impossível de manter.</font>
+
+132
+00:11:37,780 --> 00:11:42,700
+<font color=#FFFF00>Com exceção do Castelo Negro,
+o Fortenoite é o castelo perfeito para nós.</font>
+
+133
+00:11:42,780 --> 00:11:45,950
+<font color=#FFFF00>Ele tem uma saída secreta da fortaleza,</font>
+
+134
+00:11:46,030 --> 00:11:48,660
+<font color=#FFFF00>o Portão Negro,
+tão antigo quanto a própria Muralha.</font>
+
+135
+00:11:48,750 --> 00:11:52,330
+<font color=#FFFF00>Ninguém o usa há séculos, provavelmente.</font>
+
+136
+00:11:52,540 --> 00:11:57,050
+<font color=#FFFF00>Ele passa pela Muralha
+direto até o Fortenoite,</font>
+
+137
+00:11:57,130 --> 00:12:02,180
+<font color=#FFFF00>se alguém souber como encontrá-Io.
+E que, por acaso, eu sei.</font>
+
+138
+00:12:06,890 --> 00:12:09,270
+<font color=#FFFF00>Como você sabe todas essas coisas?</font>
+
+139
+00:12:09,560 --> 00:12:13,150
+<font color=#FFFF00>Li sobre isso em um livro bem antigo.</font>
+
+140
+00:12:18,980 --> 00:12:23,360
+<font color=#FFFF00>Você sabe tudo isso
+olhando para símbolos no papel?</font>
+
+141
+00:12:24,360 --> 00:12:25,950
+<font color=#FFFF00>Sei.</font>
+
+142
+00:12:26,660 --> 00:12:28,990
+<font color=#FFFF00>Você é igual a um mago.</font>
+
+143
+00:12:44,340 --> 00:12:46,180
+<font color=#FFFF00>Nosso pai costumava contar</font>
+
+144
+00:12:46,260 --> 00:12:50,180
+<font color=#FFFF00>que nenhum selvagem jamais olhou
+para a Muralha e viveu.</font>
+
+145
+00:12:50,970 --> 00:12:52,730
+<font color=#FFFF00>E estamos aqui...</font>
+
+146
+00:12:54,060 --> 00:12:55,650
+<font color=#FFFF00>Vivos!</font>
+
+147
+00:13:12,040 --> 00:13:14,830
+<font color=#FFFF00>Lembre-se do que acontece
+com crianças fujonas.</font>
+
+148
+00:13:14,920 --> 00:13:17,380
+<font color=#FFFF00>Eu sou seu pai. E só eu vou falar.</font>
+
+149
+00:13:27,590 --> 00:13:29,850
+<font color=#FFFF00>As estradas estão mesmo um inferno, não é?</font>
+
+150
+00:13:29,930 --> 00:13:32,680
+<font color=#FFFF00>- Racharam três raios da roda hoje.
+- Quer uma mão?</font>
+
+151
+00:13:32,770 --> 00:13:34,060
+<font color=#FFFF00>Preciso de umas oito mãos para...</font>
+
+152
+00:13:35,770 --> 00:13:39,820
+<font color=#FFFF00>Preciso levar o toucinho salgado
+para os Gêmeos antes do casamento.</font>
+
+153
+00:13:41,320 --> 00:13:42,610
+<font color=#FFFF00>Muito obrigado.</font>
+
+154
+00:13:45,450 --> 00:13:48,320
+<font color=#FFFF00>Não! Não mate ele!</font>
+
+155
+00:13:48,660 --> 00:13:50,620
+<font color=#FFFF00>Ratos mortos não guincham.</font>
+
+156
+00:13:50,700 --> 00:13:52,330
+<font color=#FFFF00>Você é muito perigoso, não é?</font>
+
+157
+00:13:52,410 --> 00:13:54,410
+<font color=#FFFF00>Dizendo coisas assustadoras
+para garotinhas,</font>
+
+158
+00:13:54,700 --> 00:13:58,630
+<font color=#FFFF00>matando garotinhos e velhos.
+Você é mesmo muito durão.</font>
+
+159
+00:13:59,080 --> 00:14:01,420
+<font color=#FFFF00>- Mais do que qualquer um que conheça.
+- Está enganado.</font>
+
+160
+00:14:01,550 --> 00:14:03,550
+<font color=#FFFF00>Conheço um assassino.</font>
+
+161
+00:14:03,630 --> 00:14:05,510
+<font color=#FFFF00>- Um de verdade.
+- É mesmo?</font>
+
+162
+00:14:05,590 --> 00:14:09,260
+<font color=#FFFF00>Você seria como um gatinho para ele.
+Ele o mataria com o dedo mindinho.</font>
+
+163
+00:14:10,430 --> 00:14:12,430
+<font color=#FFFF00>É ele?</font>
+
+164
+00:14:13,770 --> 00:14:15,680
+<font color=#FFFF00>- Não.
+- Ótimo.</font>
+
+165
+00:14:16,850 --> 00:14:18,350
+<font color=#FFFF00>Não mate ele!</font>
+
+166
+00:14:18,850 --> 00:14:20,400
+<font color=#FFFF00>Por favor!</font>
+
+167
+00:14:20,980 --> 00:14:22,440
+<font color=#FFFF00>Por favor, não.</font>
+
+168
+00:14:26,030 --> 00:14:29,610
+<font color=#FFFF00>Você é muito boazinha.
+Um dia isso vai matar você.</font>
+
+169
+00:14:47,260 --> 00:14:49,090
+<font color=#FFFF00>Onde estamos?</font>
+
+170
+00:14:49,180 --> 00:14:50,930
+<font color=#FFFF00>Na Dádiva, eu acho.</font>
+
+171
+00:14:51,470 --> 00:14:54,970
+<font color=#FFFF00>Brandon, o Construtor deu toda esta terra
+para a Patrulha da Noite</font>
+
+172
+00:14:55,060 --> 00:14:57,600
+<font color=#FFFF00>para "seu sustento e proteção".</font>
+
+173
+00:14:58,230 --> 00:14:59,980
+<font color=#FFFF00>Foi o Meistre Luwin que disse.</font>
+
+174
+00:15:02,360 --> 00:15:04,320
+<font color=#FFFF00>Não parece estar protegendo ninguém
+no momento.</font>
+
+175
+00:15:05,280 --> 00:15:07,530
+<font color=#FFFF00>É uma terra boa e não tem guerra por aqui.</font>
+
+176
+00:15:08,490 --> 00:15:09,450
+<font color=#FFFF00>Por que partir?</font>
+
+177
+00:15:09,530 --> 00:15:11,160
+<font color=#FFFF00>Selvagens.</font>
+
+178
+00:15:11,780 --> 00:15:13,070
+<font color=#FFFF00>Desculpe.</font>
+
+179
+00:15:13,830 --> 00:15:17,500
+<font color=#FFFF00>Eles vêm até a Muralha e invadem, roubam,
+levam as mulheres.</font>
+
+180
+00:15:17,580 --> 00:15:21,830
+<font color=#FFFF00>E fazem um caneco do seu crânio e fazem
+você beber seu próprio sangue nele!</font>
+
+181
+00:15:24,670 --> 00:15:26,210
+<font color=#FFFF00>Foi a Velha Ama que disse!</font>
+
+182
+00:15:26,840 --> 00:15:27,920
+<font color=#FFFF00>Uma tempestade se aproxima.</font>
+
+183
+00:15:29,170 --> 00:15:30,220
+<font color=#FFFF00>Não vejo nenhuma.</font>
+
+184
+00:15:35,390 --> 00:15:36,770
+<font color=#FFFF00>É um bom abrigo como qualquer outro.</font>
+
+185
+00:15:40,230 --> 00:15:42,190
+<font color=#FFFF00>Podemos beber sangue
+enquanto esperamos.</font>
+
+186
+00:15:43,020 --> 00:15:44,610
+<font color=#FFFF00>Não preciso de muito.</font>
+
+187
+00:15:56,490 --> 00:15:58,950
+<font color=#FFFF00>Só vi um velho e oito cavalos bons.</font>
+
+188
+00:15:59,040 --> 00:16:01,790
+<font color=#FFFF00>O que um velho está fazendo
+com oito cavalos?</font>
+
+189
+00:16:02,170 --> 00:16:03,830
+<font color=#FFFF00>Ele os cria para a Patrulha.</font>
+
+190
+00:16:03,920 --> 00:16:05,750
+<font color=#FFFF00>Como ele impede que sejam roubados?</font>
+
+191
+00:16:06,380 --> 00:16:07,960
+<font color=#FFFF00>A Patrulha o protege.</font>
+
+192
+00:16:08,760 --> 00:16:10,630
+<font color=#FFFF00>Pelo jeito, hoje não.</font>
+
+193
+00:16:11,220 --> 00:16:13,470
+<font color=#FFFF00>Ele vende cavalos e deve ter ouro lá dentro.</font>
+
+194
+00:16:13,890 --> 00:16:16,350
+<font color=#FFFF00>- E aço do bom.
+- Vamos matá-Io.</font>
+
+195
+00:16:16,430 --> 00:16:17,930
+<font color=#FFFF00>Pegamos os cavalos e partimos.</font>
+
+196
+00:16:19,060 --> 00:16:20,560
+<font color=#FFFF00>O velho não é ameaça.</font>
+
+197
+00:16:21,850 --> 00:16:23,140
+<font color=#FFFF00>Eu vivo te falando.</font>
+
+198
+00:16:23,650 --> 00:16:25,230
+<font color=#FFFF00>Ele é um velho.</font>
+
+199
+00:16:25,310 --> 00:16:27,270
+<font color=#FFFF00>É melhor morrer
+com uma lança fincada no coração</font>
+
+200
+00:16:27,360 --> 00:16:30,070
+<font color=#FFFF00>do que dar seu último suspiro
+só com cavalos para ouvir.</font>
+
+201
+00:16:31,740 --> 00:16:35,240
+<font color=#FFFF00>A Patrulha pode mandar alguns homens
+à procura de um ladrão de cavalos.</font>
+
+202
+00:16:35,320 --> 00:16:38,160
+<font color=#FFFF00>Mas podem mandar muitos outros
+para caçar assassinos.</font>
+
+203
+00:16:38,240 --> 00:16:42,960
+<font color=#FFFF00>É o que espero.
+Matar corvos no castelo deles é difícil.</font>
+
+204
+00:16:43,040 --> 00:16:44,920
+<font color=#FFFF00>Matá-los aqui ao ar livre?</font>
+
+205
+00:16:45,000 --> 00:16:46,670
+<font color=#FFFF00>É o que fazemos.</font>
+
+206
+00:16:47,500 --> 00:16:50,920
+<font color=#FFFF00>Espalhem-se,
+cerquem a cabana e entrem.</font>
+
+207
+00:17:33,800 --> 00:17:34,840
+<font color=#FFFF00>Ygritte!</font>
+
+208
+00:17:37,470 --> 00:17:38,890
+<font color=#FFFF00>Limpem o estábulo!</font>
+
+209
+00:18:16,930 --> 00:18:19,930
+<font color=#FFFF00>Ninguém vai acreditar que você é
+um criador de porco se comer tudo.</font>
+
+210
+00:18:20,850 --> 00:18:22,760
+<font color=#FFFF00>É a melhor parte do animal.</font>
+
+211
+00:18:27,600 --> 00:18:29,270
+<font color=#FFFF00>Não se preocupe. Eles ainda estão lá.</font>
+
+212
+00:18:30,980 --> 00:18:32,360
+<font color=#FFFF00>Eu sei que ainda estão lá.</font>
+
+213
+00:18:32,570 --> 00:18:36,030
+<font color=#FFFF00>Olha a cada cinco minutos
+como se tivesse medo que eles partam.</font>
+
+214
+00:18:37,610 --> 00:18:39,990
+<font color=#FFFF00>- Não tenho medo.
+- Claro que tem.</font>
+
+215
+00:18:41,030 --> 00:18:45,580
+<font color=#FFFF00>Você está quase lá
+e está com medo de não chegar.</font>
+
+216
+00:18:45,950 --> 00:18:49,210
+<font color=#FFFF00>Quanto mais perto chega, maior é seu medo.</font>
+
+217
+00:18:49,870 --> 00:18:52,460
+<font color=#FFFF00>Não adianta querer
+se esconder atrás dessa cara.</font>
+
+218
+00:18:53,000 --> 00:18:55,420
+<font color=#FFFF00>Conheço o medo quando o vejo.</font>
+
+219
+00:18:55,510 --> 00:18:57,300
+<font color=#FFFF00>Já vi bastante.</font>
+
+220
+00:18:58,880 --> 00:19:00,220
+<font color=#FFFF00>Conheci o medo quando o vi em você.</font>
+
+221
+00:19:02,680 --> 00:19:04,680
+<font color=#FFFF00>Você tem medo do fogo.</font>
+
+222
+00:19:05,890 --> 00:19:09,020
+<font color=#FFFF00>A espada do Beric em chamas
+te fez parecer uma garotinha assustada.</font>
+
+223
+00:19:13,020 --> 00:19:14,900
+<font color=#FFFF00>E eu também sei por quê.</font>
+
+224
+00:19:17,070 --> 00:19:19,240
+<font color=#FFFF00>Soube o que seu irmão fez com você.</font>
+
+225
+00:19:20,740 --> 00:19:24,370
+<font color=#FFFF00>Imprensou seu rosto no fogo como se
+você fosse um pedaço suculento de carneiro.</font>
+
+226
+00:19:28,410 --> 00:19:30,250
+<font color=#FFFF00>Isso te dá alguma ideia?</font>
+
+227
+00:19:33,420 --> 00:19:35,300
+<font color=#FFFF00>Talvez sim.</font>
+
+228
+00:19:36,250 --> 00:19:38,460
+<font color=#FFFF00>Vá em frente, então.</font>
+
+229
+00:19:38,550 --> 00:19:40,340
+<font color=#FFFF00>Você pode escapar.</font>
+
+230
+00:19:41,010 --> 00:19:43,050
+<font color=#FFFF00>Pode até chegar lá sozinha.</font>
+
+231
+00:19:44,300 --> 00:19:46,220
+<font color=#FFFF00>Estão do outro lado do rio.</font>
+
+232
+00:19:47,100 --> 00:19:51,770
+<font color=#FFFF00>É o mais perto que já esteve de sua família
+desde que Ilyn Payne degolou seu pai.</font>
+
+233
+00:19:55,520 --> 00:19:59,740
+<font color=#FFFF00>Um dia vou enfiar uma espada no seu olho
+e atravessar o seu crânio.</font>
+
+234
+00:20:24,930 --> 00:20:27,140
+<font color=#FFFF00>Como vamos atravessar a Muralha?</font>
+
+235
+00:20:28,140 --> 00:20:30,810
+<font color=#FFFF00>Meu tio disse que ela tem
+mais de duzentos metros de altura.</font>
+
+236
+00:20:35,610 --> 00:20:36,810
+<font color=#FFFF00>Como você atravessou?</font>
+
+237
+00:20:41,490 --> 00:20:43,860
+<font color=#FFFF00>Entrei num barco
+e remei pela Baía das Focas.</font>
+
+238
+00:20:44,360 --> 00:20:47,240
+<font color=#FFFF00>Levaríamos dois meses para chegar
+à Baía das Focas.</font>
+
+239
+00:20:47,450 --> 00:20:49,080
+<font color=#FFFF00>Então escale o gelo.</font>
+
+240
+00:20:49,160 --> 00:20:52,540
+<font color=#FFFF00>Nem Hodor é forte o bastante
+para escalar me carregando.</font>
+
+241
+00:20:52,620 --> 00:20:53,670
+<font color=#FFFF00>Hodor.</font>
+
+242
+00:20:56,040 --> 00:20:58,340
+<font color=#FFFF00>Dezenove castelos guardam a Muralha.</font>
+
+243
+00:20:58,420 --> 00:21:00,550
+<font color=#FFFF00>- Só três ainda são habitados.
+- Hodor!</font>
+
+244
+00:21:01,670 --> 00:21:03,590
+<font color=#FFFF00>Um dos fortes abandonados
+nos dará uma passagem.</font>
+
+245
+00:21:03,680 --> 00:21:06,260
+<font color=#FFFF00>Meu tio disse que os portões foram lacrados
+com gelo e pedra</font>
+
+246
+00:21:06,340 --> 00:21:08,010
+<font color=#FFFF00>quando os castelos foram abandonados.</font>
+
+247
+00:21:08,350 --> 00:21:10,470
+<font color=#FFFF00>Então temos que reabri-los.</font>
+
+248
+00:21:13,850 --> 00:21:15,270
+<font color=#FFFF00>Tem um cavaleiro lá em baixo.</font>
+
+249
+00:21:17,060 --> 00:21:18,560
+<font color=#FFFF00>Só um?</font>
+
+250
+00:21:18,650 --> 00:21:20,400
+<font color=#FFFF00>- Tem mais.
+- Hodor!</font>
+
+251
+00:21:23,360 --> 00:21:26,160
+<font color=#FFFF00>- É só um trovão, meu gigante.
+- Hodor.</font>
+
+252
+00:21:26,660 --> 00:21:28,530
+<font color=#FFFF00>Eu me entrego.</font>
+
+253
+00:21:28,620 --> 00:21:30,160
+<font color=#FFFF00>- Eu me entrego.
+- Selvagens.</font>
+
+254
+00:21:35,500 --> 00:21:36,790
+<font color=#FFFF00>Cadê o Cão Felpudo e Verão?</font>
+
+255
+00:21:36,870 --> 00:21:37,960
+<font color=#FFFF00>Caçando.</font>
+
+256
+00:21:39,710 --> 00:21:40,920
+<font color=#FFFF00>Hodor!</font>
+
+257
+00:21:41,800 --> 00:21:43,130
+<font color=#FFFF00>- Fica quieto! Calma.
+- Hodor!</font>
+
+258
+00:21:43,210 --> 00:21:45,260
+<font color=#FFFF00>Fala para ele não gritar. Se nos ouvirem...</font>
+
+259
+00:21:45,340 --> 00:21:46,720
+<font color=#FFFF00>Pare de falar, Hodor. Não, não, não.</font>
+
+260
+00:21:46,800 --> 00:21:48,220
+<font color=#FFFF00>Hodor!</font>
+
+261
+00:21:48,300 --> 00:21:49,970
+<font color=#FFFF00>- Hodor! Hodor! Hodor!
+- Hodor, fica calmo!</font>
+
+262
+00:21:50,050 --> 00:21:51,930
+<font color=#FFFF00>- Precisa ficar quieto.
+- Vão nos ouvir!</font>
+
+263
+00:21:52,390 --> 00:21:53,930
+<font color=#FFFF00>Hodor, fica quieto!</font>
+
+264
+00:21:55,640 --> 00:21:57,560
+<font color=#FFFF00>- Hodor!
+- Hodor, fica calmo!</font>
+
+265
+00:21:57,650 --> 00:22:00,520
+<font color=#FFFF00>- Hodor!
+- Hodor, fica quieto!</font>
+
+266
+00:22:23,420 --> 00:22:24,630
+<font color=#FFFF00>O que você fez?</font>
+
+267
+00:22:25,300 --> 00:22:27,050
+<font color=#FFFF00>Nada.</font>
+
+268
+00:22:27,550 --> 00:22:29,180
+<font color=#FFFF00>Eu não sei.</font>
+
+269
+00:22:34,520 --> 00:22:35,770
+<font color=#FFFF00>O que é?</font>
+
+270
+00:22:36,180 --> 00:22:38,440
+<font color=#FFFF00>É um cavalo morrendo.</font>
+
+271
+00:22:48,700 --> 00:22:50,950
+<font color=#FFFF00>Traga-os aqui.</font>
+
+272
+00:22:51,530 --> 00:22:54,080
+<font color=#FFFF00>Era o último. O resto está morto.</font>
+
+273
+00:22:54,620 --> 00:22:56,700
+<font color=#FFFF00>Eu ouvi gritos lá em cima.</font>
+
+274
+00:22:56,870 --> 00:22:58,080
+<font color=#FFFF00>Trovão.</font>
+
+275
+00:22:58,870 --> 00:23:01,080
+<font color=#FFFF00>Sei a diferença entre um grito e um trovão.</font>
+
+276
+00:23:01,710 --> 00:23:03,590
+<font color=#FFFF00>Talvez sejam fantasmas.</font>
+
+277
+00:23:14,470 --> 00:23:17,060
+<font color=#FFFF00>Isso não vai ajudar, vovô.</font>
+
+278
+00:23:21,600 --> 00:23:22,940
+<font color=#FFFF00>Para onde está indo?</font>
+
+279
+00:23:23,360 --> 00:23:25,070
+<font color=#FFFF00>Não importa agora, não é?</font>
+
+280
+00:23:25,150 --> 00:23:27,570
+<font color=#FFFF00>Não. Não importa agora.</font>
+
+281
+00:23:29,530 --> 00:23:32,660
+<font color=#FFFF00>Corte a garganta dele!
+Ou contará aos corvos que estamos aqui.</font>
+
+282
+00:23:39,210 --> 00:23:40,370
+<font color=#FFFF00>Você entende, não é?</font>
+
+283
+00:23:41,000 --> 00:23:42,290
+<font color=#FFFF00>Ao menos me deixe levantar.</font>
+
+284
+00:23:43,580 --> 00:23:45,750
+<font color=#FFFF00>Morrer com um pouco de dignidade.</font>
+
+285
+00:23:51,090 --> 00:23:52,470
+<font color=#FFFF00>Faça o corvo matá-Io.</font>
+
+286
+00:23:56,350 --> 00:23:59,430
+<font color=#FFFF00>Você é um de nós agora? Prove.</font>
+
+287
+00:24:04,190 --> 00:24:05,690
+<font color=#FFFF00>Os lobos estão lá fora.</font>
+
+288
+00:24:09,440 --> 00:24:11,200
+<font color=#FFFF00>Não consigo fazer isso por vontade própria.</font>
+
+289
+00:24:11,700 --> 00:24:13,160
+<font color=#FFFF00>Eu não sei como.</font>
+
+290
+00:24:13,490 --> 00:24:15,120
+<font color=#FFFF00>Isso só acontece nos meus sonhos.</font>
+
+291
+00:24:15,450 --> 00:24:18,040
+<font color=#FFFF00>Você é um warg, Bran. Está no seu sangue.</font>
+
+292
+00:24:19,870 --> 00:24:20,870
+<font color=#FFFF00>Não consigo...</font>
+
+293
+00:24:21,210 --> 00:24:23,040
+<font color=#FFFF00>Acabou de fazer com ele.</font>
+
+294
+00:24:23,250 --> 00:24:24,710
+<font color=#FFFF00>Um lobo não é nada comparado a ele.</font>
+
+295
+00:24:33,050 --> 00:24:34,140
+<font color=#FFFF00>Parece afiada.</font>
+
+296
+00:24:44,190 --> 00:24:45,810
+<font color=#FFFF00>Faça.</font>
+
+297
+00:24:46,940 --> 00:24:48,320
+<font color=#FFFF00>Faça.</font>
+
+298
+00:24:48,650 --> 00:24:51,440
+<font color=#FFFF00>Eu te falei. Ele ainda é um deles.</font>
+
+299
+00:24:53,910 --> 00:24:55,160
+<font color=#FFFF00>Anda, garoto!</font>
+
+300
+00:24:58,370 --> 00:24:59,700
+<font color=#FFFF00>Vai!</font>
+
+301
+00:25:08,960 --> 00:25:11,590
+<font color=#FFFF00>Ele é um corvo!
+Ele sempre será um corvo.</font>
+
+302
+00:25:12,050 --> 00:25:14,470
+<font color=#FFFF00>E essa é a esposa do corvo protegendo ele.</font>
+
+303
+00:25:14,800 --> 00:25:17,600
+<font color=#FFFF00>Vai nos matar pelas costas
+assim que tiver uma chance.</font>
+
+304
+00:25:20,600 --> 00:25:22,100
+<font color=#FFFF00>Mate ele!</font>
+
+305
+00:25:37,990 --> 00:25:40,370
+<font color=#FFFF00>- Ele é um deles!
+- Não!</font>
+
+306
+00:25:40,450 --> 00:25:42,080
+<font color=#FFFF00>Está me ouvindo?</font>
+
+307
+00:25:48,330 --> 00:25:51,380
+<font color=#FFFF00>Você não vai morrer por um deles!</font>
+
+308
+00:25:52,960 --> 00:25:54,170
+<font color=#FFFF00>Faça.</font>
+
+309
+00:25:55,510 --> 00:25:57,430
+<font color=#FFFF00>Vão nos encontrar se não fizer.</font>
+
+310
+00:26:27,160 --> 00:26:29,000
+<font color=#FFFF00>Você estava certo o tempo todo.</font>
+
+311
+00:27:16,210 --> 00:27:18,380
+<font color=#FFFF00>Quando ouvirem o pio de um pássaro, vão.</font>
+
+312
+00:27:19,010 --> 00:27:22,680
+<font color=#FFFF00>Eu o imito muito bem. O melhor desta terra.</font>
+
+313
+00:27:28,560 --> 00:27:30,230
+<font color=#FFFF00>Daario Naharis.</font>
+
+314
+00:27:58,760 --> 00:28:00,130
+<font color=#FFFF00>Esse aí foi rápido.</font>
+
+315
+00:28:03,430 --> 00:28:05,470
+<font color=#FFFF00>- Pode haver outros.
+- Eu duvido.</font>
+
+316
+00:28:05,550 --> 00:28:08,520
+<font color=#FFFF00>Os yunkianos preferem
+que os escravos lutem por eles.</font>
+
+317
+00:28:53,270 --> 00:28:54,940
+<font color=#FFFF00>Chama isso de poucos guardas?</font>
+
+318
+00:29:20,250 --> 00:29:22,510
+<font color=#FFFF00>Vamos! O que você tem, hein?</font>
+
+319
+00:30:36,710 --> 00:30:38,540
+<font color=#FFFF00>Lorde Edmure,</font>
+
+320
+00:30:40,790 --> 00:30:43,090
+<font color=#FFFF00>espero não ser uma decepção para o senhor.</font>
+
+321
+00:30:52,140 --> 00:30:54,430
+<font color=#FFFF00>Você é um deleite para mim, milady.</font>
+
+322
+00:30:55,930 --> 00:30:59,230
+<font color=#FFFF00>Pode colocar o manto na noiva,
+e levá-la sob sua proteção.</font>
+
+323
+00:31:28,590 --> 00:31:33,180
+<font color=#FFFF00>Sob o olhar dos Sete,
+pelo presente uno estas duas almas,</font>
+
+324
+00:31:34,220 --> 00:31:37,640
+<font color=#FFFF00>formando um só corpo para a eternidade.</font>
+
+325
+00:31:37,730 --> 00:31:40,390
+<font color=#FFFF00>Olhem um para o outro e digam as palavras.</font>
+
+326
+00:31:43,440 --> 00:31:45,230
+<font color=#FFFF00>- Pai, Ferreiro...
+- Pai, Ferreiro...</font>
+
+327
+00:31:45,320 --> 00:31:47,690
+<font color=#FFFF00>- ...Guerreiro, Mãe...
+- ...Guerreiro, Mãe...</font>
+
+328
+00:31:47,780 --> 00:31:50,820
+<font color=#FFFF00>- ...Donzela, Velha, Forasteiro.
+- ...Donzela, Velha, Forasteiro.</font>
+
+329
+00:31:51,490 --> 00:31:53,120
+<font color=#FFFF00>- Eu sou dela...
+- Eu sou dele...</font>
+
+330
+00:31:53,200 --> 00:31:55,200
+<font color=#FFFF00>- ...e ela é minha...
+- ...e ele é meu...</font>
+
+331
+00:31:55,280 --> 00:31:59,540
+<font color=#FFFF00>- ...de hoje em diante até o fim de meus dias.
+- ...de hoje em diante até o fim de meus dias.</font>
+
+332
+00:32:04,000 --> 00:32:06,880
+<font color=#FFFF00>- Isso é seguro?
+- Eles já foram!</font>
+
+333
+00:32:12,010 --> 00:32:13,260
+<font color=#FFFF00>Você estava certo.</font>
+
+334
+00:32:13,340 --> 00:32:16,430
+<font color=#FFFF00>Posso entrar na mente dos lobos
+sempre que quiser.</font>
+
+335
+00:32:16,510 --> 00:32:18,220
+<font color=#FFFF00>Claro que pode.</font>
+
+336
+00:32:19,480 --> 00:32:23,270
+<font color=#FFFF00>Ao norte da Muralha há selvagens que
+podem controlar todos os tipos de animais.</font>
+
+337
+00:32:24,770 --> 00:32:26,360
+<font color=#FFFF00>Mas você fez muito mais que isso.</font>
+
+338
+00:32:28,570 --> 00:32:30,780
+<font color=#FFFF00>Você entrou na mente do Hodor.</font>
+
+339
+00:32:32,660 --> 00:32:34,110
+<font color=#FFFF00>Não podem fazer isso no norte?</font>
+
+340
+00:32:36,780 --> 00:32:39,700
+<font color=#FFFF00>Ninguém pode fazer. Em lugar nenhum.</font>
+
+341
+00:32:46,790 --> 00:32:49,090
+<font color=#FFFF00>Quando estava olhando através
+dos olhos do Verão,</font>
+
+342
+00:32:49,170 --> 00:32:50,760
+<font color=#FFFF00>- eu vi Jon.
+- Onde?</font>
+
+343
+00:32:50,840 --> 00:32:52,090
+<font color=#FFFF00>Ele estava com os selvagens.</font>
+
+344
+00:32:52,630 --> 00:32:56,470
+<font color=#FFFF00>- Tentaram matá-Io, mas ele fugiu.
+- Então ele vai voltar para o Castelo Negro.</font>
+
+345
+00:32:57,100 --> 00:32:58,220
+<font color=#FFFF00>Devíamos ir pra lá.</font>
+
+346
+00:32:58,310 --> 00:33:00,720
+<font color=#FFFF00>Sabemos que o Castelo Negro
+já está sob ataque.</font>
+
+347
+00:33:01,140 --> 00:33:03,480
+<font color=#FFFF00>- Se esses selvagens atravessaram...
+- Já falei pra você.</font>
+
+348
+00:33:03,890 --> 00:33:05,400
+<font color=#FFFF00>Não vou pro norte da Muralha.</font>
+
+349
+00:33:06,560 --> 00:33:08,360
+<font color=#FFFF00>Tudo o que Jojen me disse é verdade.</font>
+
+350
+00:33:10,690 --> 00:33:12,650
+<font color=#FFFF00>Você viu o que eu fiz com o Hodor.</font>
+
+351
+00:33:12,900 --> 00:33:14,740
+<font color=#FFFF00>Preciso achar o corvo com três olhos.</font>
+
+352
+00:33:14,820 --> 00:33:16,320
+<font color=#FFFF00>Me escute, pequeno lorde...</font>
+
+353
+00:33:16,410 --> 00:33:17,620
+<font color=#FFFF00>Não se preocupe.</font>
+
+354
+00:33:18,450 --> 00:33:20,580
+<font color=#FFFF00>Não vou pedir a você que vá comigo.</font>
+
+355
+00:33:22,910 --> 00:33:24,330
+<font color=#FFFF00>Não será seguro para o Rickon.</font>
+
+356
+00:33:25,080 --> 00:33:27,500
+<font color=#FFFF00>Eu? Eu quero ir com você.</font>
+
+357
+00:33:27,580 --> 00:33:29,130
+<font color=#FFFF00>Não.</font>
+
+358
+00:33:29,800 --> 00:33:32,510
+<font color=#FFFF00>Você, Osha e Cão Felpudo vão
+para a Última Lareira.</font>
+
+359
+00:33:32,670 --> 00:33:35,840
+<font color=#FFFF00>Os Umbers são nossos porta-bandeiras.
+Vão protegê-Io.</font>
+
+360
+00:33:35,930 --> 00:33:40,930
+<font color=#FFFF00>Eu tenho que ir com você.
+Sou seu irmão. Eu tenho que protegê-Io.</font>
+
+361
+00:33:44,270 --> 00:33:46,980
+<font color=#FFFF00>Agora eu que tenho que protegê-Io.</font>
+
+362
+00:33:47,690 --> 00:33:50,650
+<font color=#FFFF00>Robb está na guerra
+e eu vou além da Muralha.</font>
+
+363
+00:33:50,730 --> 00:33:53,780
+<font color=#FFFF00>Se algo acontecer com nós dois,
+você é o herdeiro de Winterfell.</font>
+
+364
+00:33:57,160 --> 00:33:59,030
+<font color=#FFFF00>Saberá como achar a Última Lareira?</font>
+
+365
+00:33:59,120 --> 00:34:02,540
+<font color=#FFFF00>Vocês sulistas constroem
+grandes castelos e nunca se mudam.</font>
+
+366
+00:34:02,620 --> 00:34:03,950
+<font color=#FFFF00>São fáceis de achar.</font>
+
+367
+00:34:04,620 --> 00:34:06,830
+<font color=#FFFF00>Não somos sulistas!</font>
+
+368
+00:34:07,880 --> 00:34:09,840
+<font color=#FFFF00>E eu não quero deixar você.</font>
+
+369
+00:34:11,000 --> 00:34:12,960
+<font color=#FFFF00>Vem cá, soldadinho.</font>
+
+370
+00:34:14,170 --> 00:34:17,340
+<font color=#FFFF00>Você e eu
+vamos ter algumas aventuras.</font>
+
+371
+00:34:18,260 --> 00:34:20,010
+<font color=#FFFF00>Você não precisa fazer nada disso.</font>
+
+372
+00:34:21,560 --> 00:34:23,020
+<font color=#FFFF00>Sua família me acolheu</font>
+
+373
+00:34:23,100 --> 00:34:25,270
+<font color=#FFFF00>e foi boa para mim,
+quando não precisava ser.</font>
+
+374
+00:34:27,900 --> 00:34:30,150
+<font color=#FFFF00>Nós dois vamos ficar bem.</font>
+
+375
+00:34:30,230 --> 00:34:34,280
+<font color=#FFFF00>Os Umbers são grandes guerreiros.
+Até eu ouvi falar deles quando era pequena.</font>
+
+376
+00:34:35,320 --> 00:34:37,360
+<font color=#FFFF00>Eles vão te ensinar a usar uma espada.</font>
+
+377
+00:34:38,160 --> 00:34:40,660
+<font color=#FFFF00>Eu sei como usar uma espada.</font>
+
+378
+00:34:47,920 --> 00:34:48,920
+<font color=#FFFF00>Vão partir agora?</font>
+
+379
+00:34:49,540 --> 00:34:50,580
+<font color=#FFFF00>Ainda é madrugada.</font>
+
+380
+00:34:50,670 --> 00:34:52,250
+<font color=#FFFF00>Aprendi a andar na escuridão.</font>
+
+381
+00:34:55,260 --> 00:34:56,470
+<font color=#FFFF00>Pode se despedir, rapazinho.</font>
+
+382
+00:35:05,020 --> 00:35:06,680
+<font color=#FFFF00>Protejam o Bran.</font>
+
+383
+00:35:09,230 --> 00:35:10,520
+<font color=#FFFF00>Ele é tudo para mim.</font>
+
+384
+00:35:32,170 --> 00:35:34,500
+<font color=#FFFF00>Estamos esperando há muito tempo.</font>
+
+385
+00:35:36,630 --> 00:35:38,300
+<font color=#FFFF00>Não estamos?</font>
+
+386
+00:35:39,630 --> 00:35:41,050
+<font color=#FFFF00>Eu não sei. Me responda:</font>
+
+387
+00:35:41,140 --> 00:35:43,300
+<font color=#FFFF00>Quanto tempo demora
+para tomar uma cidade?</font>
+
+388
+00:35:52,060 --> 00:35:53,810
+<font color=#FFFF00>Foi como você disse.</font>
+
+389
+00:35:54,400 --> 00:35:57,150
+<font color=#FFFF00>Eles não acreditaram até ser tarde demais.</font>
+
+390
+00:35:57,230 --> 00:36:02,570
+<font color=#FFFF00>Os soldados escravos
+largaram as lanças e se renderam.</font>
+
+391
+00:36:07,200 --> 00:36:09,250
+<font color=#FFFF00>E Daario Naharis?</font>
+
+392
+00:36:30,230 --> 00:36:32,480
+<font color=#FFFF00>A cidade é sua, minha rainha.</font>
+
+393
+00:36:55,750 --> 00:36:57,170
+<font color=#FFFF00>São bons, não?</font>
+
+394
+00:36:57,250 --> 00:36:59,550
+<font color=#FFFF00>Têm de ser, foram caros.</font>
+
+395
+00:37:06,470 --> 00:37:08,310
+<font color=#FFFF00>Ambiente alegre.</font>
+
+396
+00:37:13,440 --> 00:37:17,230
+<font color=#FFFF00>Ele reclamou desse casamento
+o caminho inteiro de Riverrun.</font>
+
+397
+00:37:17,310 --> 00:37:18,570
+<font color=#FFFF00>E agora olhe só para ele.</font>
+
+398
+00:37:18,650 --> 00:37:20,860
+<font color=#FFFF00>Os deuses adoram recompensar um tolo.</font>
+
+399
+00:37:21,190 --> 00:37:22,570
+<font color=#FFFF00>- Tio...
+- O que foi?</font>
+
+400
+00:37:23,360 --> 00:37:28,450
+<font color=#FFFF00>Ele é meu sobrinho. Eu o amo
+e ele é um bobalhão.</font>
+
+401
+00:37:33,870 --> 00:37:35,920
+<font color=#FFFF00>Não bebe, Lorde Bolton?</font>
+
+402
+00:37:36,000 --> 00:37:38,420
+<font color=#FFFF00>Nunca bebo, milady. Entorpece os sentidos.</font>
+
+403
+00:37:38,500 --> 00:37:40,500
+<font color=#FFFF00>A intenção é essa.</font>
+
+404
+00:37:40,590 --> 00:37:42,590
+<font color=#FFFF00>Não se casou com uma das garotas Frey?</font>
+
+405
+00:37:42,670 --> 00:37:46,430
+<font color=#FFFF00>Casei. Lorde Walder me deixou escolher
+qualquer uma de suas netas</font>
+
+406
+00:37:46,930 --> 00:37:50,510
+<font color=#FFFF00>e me prometeu o peso da garota
+em prata como dote.</font>
+
+407
+00:37:50,600 --> 00:37:52,270
+<font color=#FFFF00>Então, tenho uma esposa jovem e gorda.</font>
+
+408
+00:37:54,270 --> 00:37:56,190
+<font color=#FFFF00>Espero que ela o faça muito feliz.</font>
+
+409
+00:37:56,270 --> 00:37:58,020
+<font color=#FFFF00>Ela me fez ficar muito rico.</font>
+
+410
+00:37:58,360 --> 00:38:03,110
+<font color=#FFFF00>Perdão, milorde, milady.
+Preciso achar uma árvore para mijar.</font>
+
+411
+00:38:05,530 --> 00:38:09,120
+<font color=#FFFF00>Minha mãe está sozinha com Roose Bolton.
+É melhor salvá-la.</font>
+
+412
+00:38:09,200 --> 00:38:12,740
+<font color=#FFFF00>Sua mãe é a que menos precisa de ajuda
+entre todas as mulheres que já conheci.</font>
+
+413
+00:38:13,080 --> 00:38:16,040
+<font color=#FFFF00>Seja gentil.
+Ela está começando a gostar de você.</font>
+
+414
+00:38:17,960 --> 00:38:19,540
+<font color=#FFFF00>E eu gosto dela.</font>
+
+415
+00:38:19,630 --> 00:38:22,960
+<font color=#FFFF00>Mas se dependesse dela,
+eu estaria de volta a Volantis</font>
+
+416
+00:38:23,050 --> 00:38:26,300
+<font color=#FFFF00>tocando minha harpa,
+e você estaria sentado ali,</font>
+
+417
+00:38:26,550 --> 00:38:29,340
+<font color=#FFFF00>comendo amoras nas mãos de Roslin Frey.</font>
+
+418
+00:38:29,430 --> 00:38:31,470
+<font color=#FFFF00>Talvez eu tenha cometido um grande erro.</font>
+
+419
+00:38:34,470 --> 00:38:37,140
+<font color=#FFFF00>Bater no seu rei é um ato de traição.</font>
+
+420
+00:38:40,560 --> 00:38:41,980
+<font color=#FFFF00>Não faça isso.</font>
+
+421
+00:38:43,820 --> 00:38:44,820
+<font color=#FFFF00>Não os insulte.</font>
+
+422
+00:38:47,780 --> 00:38:49,570
+<font color=#FFFF00>Majestade!</font>
+
+423
+00:38:56,620 --> 00:39:00,540
+<font color=#FFFF00>O septão fez as orações dele,</font>
+
+424
+00:39:00,630 --> 00:39:02,540
+<font color=#FFFF00>algumas palavras foram ditas</font>
+
+425
+00:39:02,630 --> 00:39:07,470
+<font color=#FFFF00>e Lorde Edmure envolveu
+minha filha em um manto.</font>
+
+426
+00:39:07,550 --> 00:39:11,850
+<font color=#FFFF00>Mas eles ainda não são marido e mulher.</font>
+
+427
+00:39:11,930 --> 00:39:13,760
+<font color=#FFFF00>Uma espada precisa de bainha,</font>
+
+428
+00:39:20,810 --> 00:39:23,650
+<font color=#FFFF00>e um casamento precisa do acasalamento.</font>
+
+429
+00:39:24,320 --> 00:39:26,030
+<font color=#FFFF00>O que o senhor diz?</font>
+
+430
+00:39:26,110 --> 00:39:29,030
+<font color=#FFFF00>Para a cama! Para a cama!
+Para a cama com eles!</font>
+
+431
+00:39:34,740 --> 00:39:38,910
+<font color=#FFFF00>Se acha que é a hora certa, Lorde Walder,
+sem dúvida,</font>
+
+432
+00:39:40,040 --> 00:39:41,080
+<font color=#FFFF00>que se acasalem.</font>
+
+433
+00:39:48,130 --> 00:39:50,760
+<font color=#FFFF00>Cama! Cama! Cama!</font>
+
+434
+00:39:56,770 --> 00:39:58,180
+<font color=#FFFF00>Continuem.</font>
+
+435
+00:40:17,990 --> 00:40:19,750
+<font color=#FFFF00>Tomem cuidado, mocinhas!</font>
+
+436
+00:40:19,830 --> 00:40:23,960
+<font color=#FFFF00>Depois que libertarem esse monstro,
+não tem como prendê-Io de novo!</font>
+
+437
+00:40:25,710 --> 00:40:28,800
+<font color=#FFFF00>Cama! Cama! Cama!</font>
+
+438
+00:40:31,590 --> 00:40:33,430
+<font color=#FFFF00>Coitada.</font>
+
+439
+00:40:33,510 --> 00:40:36,220
+<font color=#FFFF00>Toda noiva sofre o mesmo.</font>
+
+440
+00:40:36,300 --> 00:40:38,770
+<font color=#FFFF00>Com certeza passou por isso com mérito.</font>
+
+441
+00:40:38,850 --> 00:40:40,850
+<font color=#FFFF00>Ned proibiu.</font>
+
+442
+00:40:41,440 --> 00:40:45,560
+<font color=#FFFF00>Disse que não seria certo quebrar o queixo
+de um homem na noite do casamento.</font>
+
+443
+00:40:53,200 --> 00:40:56,200
+<font color=#FFFF00>É um costume muito estranho.</font>
+
+444
+00:40:56,700 --> 00:41:00,000
+<font color=#FFFF00>Suponho que pareça muito estranho
+na opinião de estrangeiros.</font>
+
+445
+00:41:00,080 --> 00:41:01,540
+<font color=#FFFF00>Parece normal para você?</font>
+
+446
+00:41:02,710 --> 00:41:03,960
+<font color=#FFFF00>É uma tradição.</font>
+
+447
+00:41:06,250 --> 00:41:08,670
+<font color=#FFFF00>Sem a cerimônia do acasalamento,
+não há prova real</font>
+
+448
+00:41:08,750 --> 00:41:10,590
+<font color=#FFFF00>que o noivo e a noiva consumaram
+o casamento.</font>
+
+449
+00:41:10,670 --> 00:41:14,720
+<font color=#FFFF00>Mas há outras formas
+de fornecer uma prova.</font>
+
+450
+00:41:17,300 --> 00:41:18,720
+<font color=#FFFF00>Menino ou menina?</font>
+
+451
+00:41:21,640 --> 00:41:23,140
+<font color=#FFFF00>Eu não sei.</font>
+
+452
+00:41:23,230 --> 00:41:26,060
+<font color=#FFFF00>Mas se for menino,
+sei qual nome eu daria a ele.</font>
+
+453
+00:41:26,150 --> 00:41:27,810
+<font color=#FFFF00>Ah, sabe mesmo?</font>
+
+454
+00:41:28,520 --> 00:41:31,740
+<font color=#FFFF00>Acho que o pai deveria ter o direito
+de escolher o nome do filho também.</font>
+
+455
+00:41:31,860 --> 00:41:33,070
+<font color=#FFFF00>Eddard.</font>
+
+456
+00:41:37,200 --> 00:41:41,410
+<font color=#FFFF00>Não quer ensinar
+o pequeno Ned Stark a andar a cavalo?</font>
+
+457
+00:41:41,750 --> 00:41:43,460
+<font color=#FFFF00>Eu quero.</font>
+
+458
+00:42:39,840 --> 00:42:41,720
+<font color=#FFFF00>Juntem todos!</font>
+
+459
+00:43:03,990 --> 00:43:05,120
+<font color=#FFFF00>Aonde está indo?</font>
+
+460
+00:43:05,540 --> 00:43:07,160
+<font color=#FFFF00>Trouxe toucinho salgado para o banquete.</font>
+
+461
+00:43:07,250 --> 00:43:08,580
+<font color=#FFFF00>O banquete acabou.</font>
+
+462
+00:43:10,040 --> 00:43:12,000
+<font color=#FFFF00>Não parece que acabou.</font>
+
+463
+00:43:12,090 --> 00:43:14,920
+<font color=#FFFF00>Se eu disse que acabou, acabou.</font>
+
+464
+00:43:15,710 --> 00:43:19,300
+<font color=#FFFF00>Faça a volta e suma logo daqui.</font>
+
+465
+00:43:19,380 --> 00:43:21,010
+<font color=#FFFF00>Também trouxe pés de porco.</font>
+
+466
+00:43:22,510 --> 00:43:26,020
+<font color=#FFFF00>Você não ouve direito não?
+Volte com essa carroça!</font>
+
+467
+00:43:38,990 --> 00:43:40,360
+<font color=#FFFF00>Majestade!</font>
+
+468
+00:43:46,540 --> 00:43:52,670
+<font color=#FFFF00>Eu sinto que fui negligente
+com meus deveres.</font>
+
+469
+00:43:52,880 --> 00:43:56,130
+<font color=#FFFF00>Eu lhe dei carne e vinho e música,</font>
+
+470
+00:43:56,210 --> 00:44:01,720
+<font color=#FFFF00>mas não lhe mostrei
+a hospitalidade que merece.</font>
+
+471
+00:44:03,140 --> 00:44:07,680
+<font color=#FFFF00>Meu rei se casou e devo à minha nova rainha
+um presente de casamento.</font>
+
+472
+00:44:12,770 --> 00:44:13,770
+<font color=#FFFF00>Robb!</font>
+
+473
+00:45:01,950 --> 00:45:04,280
+<font color=#FFFF00>Pronto para ir a Winterfell?</font>
+
+474
+00:45:07,740 --> 00:45:09,040
+<font color=#FFFF00>O banquete já acabou?</font>
+
+475
+00:45:09,120 --> 00:45:10,620
+<font color=#FFFF00>É, já acabou.</font>
+
+476
+00:45:46,280 --> 00:45:47,820
+<font color=#FFFF00>Mirem!</font>
+
+477
+00:46:17,190 --> 00:46:18,190
+<font color=#FFFF00>Tarde demais.</font>
+
+478
+00:47:00,400 --> 00:47:03,570
+<font color=#FFFF00>O Rei do Norte se levanta!</font>
+
+479
+00:47:25,210 --> 00:47:26,210
+<font color=#FFFF00>Lorde Walder!</font>
+
+480
+00:47:27,260 --> 00:47:28,840
+<font color=#FFFF00>Lorde Walder, já chega!</font>
+
+481
+00:47:29,380 --> 00:47:31,260
+<font color=#FFFF00>Acabe com isso!</font>
+
+482
+00:47:33,260 --> 00:47:37,180
+<font color=#FFFF00>Por favor!
+Ele é meu filho!</font>
+
+483
+00:47:37,640 --> 00:47:39,600
+<font color=#FFFF00>Meu primeiro filho!</font>
+
+484
+00:47:39,690 --> 00:47:42,190
+<font color=#FFFF00>Deixe ele ir e juro que esqueceremos isso!</font>
+
+485
+00:47:42,560 --> 00:47:44,150
+<font color=#FFFF00>Juro pelos velhos e novos deuses</font>
+
+486
+00:47:45,020 --> 00:47:46,530
+<font color=#FFFF00>que não nos vingaremos!</font>
+
+487
+00:47:46,610 --> 00:47:50,150
+<font color=#FFFF00>Já me fez um juramento,
+bem aqui em meu castelo.</font>
+
+488
+00:47:50,240 --> 00:47:53,910
+<font color=#FFFF00>Jurou por todos os deuses que
+seu filho se casaria com minha filha!</font>
+
+489
+00:47:53,990 --> 00:47:57,450
+<font color=#FFFF00>Me leve como refém,
+mas deixe Robb ir.</font>
+
+490
+00:47:57,950 --> 00:48:01,290
+<font color=#FFFF00>Robb! Levante.
+Levante e saia daqui!</font>
+
+491
+00:48:02,170 --> 00:48:03,500
+<font color=#FFFF00>Por favor!</font>
+
+492
+00:48:05,800 --> 00:48:07,460
+<font color=#FFFF00>Por favor!</font>
+
+493
+00:48:08,130 --> 00:48:12,430
+<font color=#FFFF00>E por que eu o deixaria ir embora?</font>
+
+494
+00:48:14,930 --> 00:48:16,760
+<font color=#FFFF00>Por minha honra como uma Tully.</font>
+
+495
+00:48:17,720 --> 00:48:20,180
+<font color=#FFFF00>Por minha honra como uma Stark.</font>
+
+496
+00:48:20,980 --> 00:48:26,400
+<font color=#FFFF00>Deixe ele ir embora
+ou cortarei a garganta de sua esposa!</font>
+
+497
+00:48:34,660 --> 00:48:37,160
+<font color=#FFFF00>Eu arrumo outra.</font>
+
+498
+00:48:40,200 --> 00:48:42,120
+<font color=#FFFF00>Mãe...</font>
+
+499
+00:48:43,670 --> 00:48:45,340
+<font color=#FFFF00>Os Lannisters mandam lembranças.</font>
+
